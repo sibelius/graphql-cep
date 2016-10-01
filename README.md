@@ -4,7 +4,7 @@ Query any CEP (Brasil) using GraphQL
 
 Test it here: https://graphql-cep-liimjftpnr.now.sh
 
-![graphql-cep](./sreenshot/graphql-cep.png)
+![graphql-cep](sreenshot/graphql-cep.png)
 
 ## Command
 
