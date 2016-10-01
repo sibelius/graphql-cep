@@ -37,5 +37,4 @@ flow
 ```
 
 ### Schema
-Take a look on the schema
-./data/
+Take a look on the [Schema](https://github.com/sibelius/graphql-cep/blob/master/data/schema.graphql)
