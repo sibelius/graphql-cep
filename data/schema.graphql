@@ -1,0 +1,15 @@
+# Represents an address
+type Address {
+  # The ID of an object
+  id: ID!
+  street: String
+  neighborhood: String
+  city: String
+  state: String
+  error: String
+}
+
+# The root of all... queries
+type Query {
+  addressByCep(cep: String!): Address
+}
